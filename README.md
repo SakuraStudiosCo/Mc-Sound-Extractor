@@ -1,8 +1,11 @@
+A simple tool to extract sound files from your Minecraft installation.<img src="https://github.com/user-attachments/assets/a89b32cc-9726-445b-9cd8-5b297fa2d41b" alt="Sound Extractor" width="300"/>
+
+
 # Minecraft Sound Extractor
 
-A simple tool to extract sound files from your Minecraft installation.
 
 ## Requirements
+
 
 - Java 21
 - Minecraft installed
